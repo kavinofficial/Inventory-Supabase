@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "firstName": "kavin",
+      "lastName": "S",
+      "email": "skavinspravin123@gmail.com",
+      "password": "kavin123",
+      "id": 1,
+      "Inventory": [
+        {
+          "id": 1,
+          "image": "",
+          "name": "dsadasd",
+          "category": "dsa",
+          "price": 12.2,
+          "stock": 12
+        },
+        {
+          "id": 1,
+          "image": "",
+          "name": "dsadsad",
+          "category": "dsadsa",
+          "price": 12.2,
+          "stock": 12
+        }
+      ]
+    },
+    {
+      "firstName": "Priyanshu",
+      "lastName": "T",
+      "email": "priyanshu9943@gmail.com",
+      "password": "123456",
+      "id": 2,
+      "profilePicture": "/profile-img.png"
+    },
+    {
+      "firstName": "Mohananth",
+      "lastName": "Venkatachalam",
+      "email": "mohananthvs18@gmail.com",
+      "password": "mohanvs",
+      "id": 3
+    },
+    {
+      "firstName": "Priyanshu",
+      "lastName": "T",
+      "email": "test@gmail.com",
+      "password": "123456",
+      "id": 4
+    }
+  ]
+}
