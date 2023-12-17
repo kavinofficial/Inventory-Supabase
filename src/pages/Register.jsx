@@ -78,7 +78,7 @@ export default function Register() {
         email: body.email,
         password: body.password,
         options: {
-          emailRedirectTo: 'http://localhost:3000/home',
+          emailRedirectTo: 'https://instock-supabase.netlify.app/user/home',
         },
       })
       if (error) {
